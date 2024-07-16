@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased](https://github.com/OpenVoiceOS/ovos-classifiers/tree/HEAD)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a54...HEAD)
+
+**Fixed bugs:**
+
+- config option to not strip punctuation [\#43](https://github.com/OpenVoiceOS/ovos-classifiers/pull/43) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.0a54](https://github.com/OpenVoiceOS/ovos-classifiers/tree/V0.0.0a54) (2024-06-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a53...V0.0.0a54)
+
 ## [V0.0.0a53](https://github.com/OpenVoiceOS/ovos-classifiers/tree/V0.0.0a53) (2024-02-06)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a52...V0.0.0a53)
