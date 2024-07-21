@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/ovos-classifiers/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a54...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a55...HEAD)
+
+**Implemented enhancements:**
+
+- feat/add\_rerank\_method [\#44](https://github.com/OpenVoiceOS/ovos-classifiers/pull/44) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.0a55](https://github.com/OpenVoiceOS/ovos-classifiers/tree/V0.0.0a55) (2024-07-16)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a54...V0.0.0a55)
 
 **Fixed bugs:**
 
