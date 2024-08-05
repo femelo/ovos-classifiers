@@ -2,7 +2,19 @@
 
 ## [Unreleased](https://github.com/OpenVoiceOS/ovos-classifiers/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a57...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a58...HEAD)
+
+**Implemented enhancements:**
+
+- multiple choice solvers - ask selection/yesno [\#26](https://github.com/OpenVoiceOS/ovos-classifiers/issues/26)
+
+**Merged pull requests:**
+
+- move utterance normalizer to own repo [\#48](https://github.com/OpenVoiceOS/ovos-classifiers/pull/48) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.0a58](https://github.com/OpenVoiceOS/ovos-classifiers/tree/V0.0.0a58) (2024-08-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-classifiers/compare/V0.0.0a57...V0.0.0a58)
 
 **Fixed bugs:**
 
